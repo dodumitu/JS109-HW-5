@@ -1,0 +1,34 @@
+div {
+}
+.square { /* gop cac cai co diem chung thanh mot class moi, vd ow day laf class square */
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+}
+#div1 {
+  background-color: rgb(196, 122, 26);
+  /* width: 200px;
+  height: 200px;
+  border: 1px solid black; */
+}
+#div2 {
+  background-color: rgb(43, 27, 189);
+  /* width: 200px;
+  height: 200px;
+  border: 1px solid black; */
+}
+#div3 {
+  background-color: rgb(29, 202, 101);
+  /* width: 200px;
+  height: 200px;
+  border: 1px solid black; */
+}
+.special {
+    margin-left: 200px;
+}
+.tier1 {
+    margin-left: 400px;
+}
+.redTexr {
+    color:chartreuse
+}
